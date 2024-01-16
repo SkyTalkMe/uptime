@@ -4,17 +4,19 @@
     "url": "https://skytalk.id",
     "icon": "https://icons.duckduckgo.com/ip3/skytalk.id.ico",
     "slug": "sky-talk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 987,
-    "timeDay": 1077,
-    "timeWeek": 1026,
-    "timeMonth": 987,
-    "timeYear": 987,
-    "dailyMinutesDown": {}
+    "time": 985,
+    "timeDay": 802,
+    "timeWeek": 999,
+    "timeMonth": 985,
+    "timeYear": 985,
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   }
 ]
